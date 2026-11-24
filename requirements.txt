@@ -1,0 +1,5 @@
+nicegui>=4.0
+sqlmodel>=0.0.22
+python-dateutil>=2.9
+pytest>=8.0
+openpyxl>=3.1
